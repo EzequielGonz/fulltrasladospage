@@ -1,0 +1,274 @@
+[
+    {
+        "nombre": "Belgrano / Núñez / Palermo / Recoleta",
+        "auto": "29.070",
+        "fiat_doblo_kangoo": "45.530",
+        "nueva_kangoo": "35.530",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Conexión Ezeiza",
+        "auto": "57.500",
+        "fiat_doblo_kangoo": "86.100",
+        "nueva_kangoo": "76.100",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Avellaneda / Lanús",
+        "auto": "41.090",
+        "fiat_doblo_kangoo": "60.860",
+        "nueva_kangoo": "50.260",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Wilde / Monte Chingolo",
+        "auto": "46.640",
+        "fiat_doblo_kangoo": "67.500",
+        "nueva_kangoo": "57.500",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Almirante Brown / Hudson",
+        "auto": "70.940",
+        "fiat_doblo_kangoo": "97.220",
+        "nueva_kangoo": "87.220",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Quilmes / Berazategui",
+        "auto": "56.750",
+        "fiat_doblo_kangoo": "79.650",
+        "nueva_kangoo": "69.650",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "San Justo / Lomas de Zamora",
+        "auto": "55.170",
+        "fiat_doblo_kangoo": "77.840",
+        "nueva_kangoo": "67.840",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "González Catán / Laferrere",
+        "auto": "58.020",
+        "fiat_doblo_kangoo": "81.330",
+        "nueva_kangoo": "71.330",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Monte Grande",
+        "auto": "60.730",
+        "fiat_doblo_kangoo": "84.690",
+        "nueva_kangoo": "74.690",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Canning / Spegazzini",
+        "auto": "79.470",
+        "fiat_doblo_kangoo": "107.170",
+        "nueva_kangoo": "97.170",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "La Plata",
+        "auto": "98.980",
+        "fiat_doblo_kangoo": "131.720",
+        "nueva_kangoo": "121.720",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Almagro / Caballito / Devoto",
+        "auto": "35.960",
+        "fiat_doblo_kangoo": "57.190",
+        "nueva_kangoo": "47.190",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Centro / Caballito / Devoto",
+        "auto": "32.560",
+        "fiat_doblo_kangoo": "49.390",
+        "nueva_kangoo": "39.930",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Ramos Mejía / Ciudadela",
+        "auto": "43.550",
+        "fiat_doblo_kangoo": "63.880",
+        "nueva_kangoo": "53.880",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Morón / Haedo",
+        "auto": "48.450",
+        "fiat_doblo_kangoo": "69.300",
+        "nueva_kangoo": "59.300",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Caseros / El Palomar",
+        "auto": "45.250",
+        "fiat_doblo_kangoo": "65.560",
+        "nueva_kangoo": "55.560",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Hurlingham / Loma Hermosa",
+        "auto": "60.730",
+        "fiat_doblo_kangoo": "84.690",
+        "nueva_kangoo": "74.690",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Ituzaingó / Padua",
+        "auto": "54.920",
+        "fiat_doblo_kangoo": "77.840",
+        "nueva_kangoo": "67.840",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "San Miguel / José C Paz",
+        "auto": "72.230",
+        "fiat_doblo_kangoo": "99.630",
+        "nueva_kangoo": "89.630",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Merlo / Paso del Rey",
+        "auto": "67.840",
+        "fiat_doblo_kangoo": "93.340",
+        "nueva_kangoo": "83.340",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Moreno / Francisco Álvarez",
+        "auto": "76.880",
+        "fiat_doblo_kangoo": "103.680",
+        "nueva_kangoo": "93.680",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Gral Rodríguez",
+        "auto": "90.450",
+        "fiat_doblo_kangoo": "121.120",
+        "nueva_kangoo": "111.120",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Luján",
+        "auto": "110.990",
+        "fiat_doblo_kangoo": "145.540",
+        "nueva_kangoo": "135.540",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "La Boca / Flores / Liniers",
+        "auto": "39.800",
+        "fiat_doblo_kangoo": "59.850",
+        "nueva_kangoo": "48.850",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Vte López / Olivos",
+        "auto": "32.240",
+        "fiat_doblo_kangoo": "51.990",
+        "nueva_kangoo": "41.990",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "San Martín / San Andrés",
+        "auto": "42.500",
+        "fiat_doblo_kangoo": "62.330",
+        "nueva_kangoo": "52.330",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "San Isidro / Boulogne",
+        "auto": "46.520",
+        "fiat_doblo_kangoo": "67.500",
+        "nueva_kangoo": "57.500",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Villa Ballester / José León Suárez",
+        "auto": "53.620",
+        "fiat_doblo_kangoo": "76.550",
+        "nueva_kangoo": "66.550",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Tigre Centro / Pacheco",
+        "auto": "52.330",
+        "fiat_doblo_kangoo": "74.480",
+        "nueva_kangoo": "64.480",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Don Torcuato / Grand Bourg",
+        "auto": "55.170",
+        "fiat_doblo_kangoo": "78.100",
+        "nueva_kangoo": "68.100",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Benavídez / Milberg / Tortuguitas",
+        "auto": "65.250",
+        "fiat_doblo_kangoo": "89.980",
+        "nueva_kangoo": "79.980",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Ing. Maschwitz / Del Viso",
+        "auto": "69.650",
+        "fiat_doblo_kangoo": "95.150",
+        "nueva_kangoo": "85.150",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Pilar / Escobar",
+        "auto": "85.150",
+        "fiat_doblo_kangoo": "114.530",
+        "nueva_kangoo": "104.530",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    },
+    {
+        "nombre": "Campana / Cardales",
+        "auto": "110.990",
+        "fiat_doblo_kangoo": "145.550",
+        "nueva_kangoo": "135.550",
+        "mercedes_benz_vito": "consultar valor y disponibilidad",
+        "hiace_sprinter": "consultar valor y disponibilidad"
+    }
+]

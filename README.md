@@ -1,0 +1,7 @@
+-npm i (para instalar dependencias)
+-npm run dev (para testear)
+-npm run build (compilar)
+-Pages >> Components
+-Dentro de archivos estan los datos correspondientes a cada destino
+-Se usa bootstrap en todos los componentes
+-Dentro de "cardtarifas" se encuentra el modelo con el que se muestra cada destino en "Tarifas"

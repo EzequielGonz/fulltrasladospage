@@ -1,0 +1,50 @@
+[
+    {
+        "distancia": "Hasta 100km",
+        "nombre": "Precio por km urbano",
+        "auto_urbano": "1.000",
+        "auto_ejecutivo": "0",
+        "nueva_renault_kangoo": "1.231",
+        "mercedes_benz_vito": "2.057"
+    },
+    {
+        "distancia": "De 100 a 200km (+IVA del 10,5%)",
+        "nombre": "Precio x km interurbano",
+        "auto_urbano": "702",
+        "auto_ejecutivo": "833",
+        "nueva_renault_kangoo": "1.034",
+        "mercedes_benz_vito": "1.636"
+    },
+    {
+        "distancia": "De 200 a 1000km (+IVA del 10,5%)",
+        "nombre": "Precio x km larga distancia",
+        "auto_urbano": "592",
+        "auto_ejecutivo": "677",
+        "nueva_renault_kangoo": "811",
+        "mercedes_benz_vito": "1.376"
+    },
+    {
+        "distancia": "Más de 1000km (+IVA del 10,5%)",
+        "nombre": "Precio x km Larga Distancia 2 choferes",
+        "auto_urbano": "724",
+        "auto_ejecutivo": "763",
+        "nueva_renault_kangoo": "930",
+        "mercedes_benz_vito": "1.565"
+    },
+    {
+        "distancia": "Espera",
+        "nombre": "Hora de espera",
+        "auto_urbano": "8.100",
+        "auto_ejecutivo": "9.000",
+        "nueva_renault_kangoo": "11.900",
+        "mercedes_benz_vito": "18.500"
+    },
+    {
+        "distancia": "Disposición",
+        "nombre": "Hora de disposición",
+        "auto_urbano": "15.700",
+        "auto_ejecutivo": "18.300",
+        "nueva_renault_kangoo": "23.500",
+        "mercedes_benz_vito": "33.700"
+    }
+]
